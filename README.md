@@ -1,11 +1,11 @@
-### Hi there 👋, I am Priyanka
-#### I am an Electrical Engineer
+## Hi there 👋, I am Priyanka
+ 
 
 
 I am ML enthusiast
 
-Skills: Java / Python / SQL
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="center">I am an Electrical Engineer from Bangladesh </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
