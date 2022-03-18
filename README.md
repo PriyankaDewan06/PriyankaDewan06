@@ -22,6 +22,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyankaDewan06&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PriyankaDewan06)  
 
 ![Profile views](https://gpvc.arturio.dev/PriyankaDewan06)  
