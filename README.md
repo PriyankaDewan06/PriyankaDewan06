@@ -1,10 +1,9 @@
 ## Hi there 👋, I am Priyanka
- 
-- 🔭 I’m currently working on Web Development using PHP
-- 🌱 I’m currently learning Software Development 
-- 👯 I’m looking to collaborate on software for energy sector 
-- 💬 Ask me about VLSI Technology 
-- 📫 How to reach me: priyanka.dasdewan@gmail.com 
+
+- 🔭 I’m currently working on web development using the PHP-Laravel Framework.
+- 🌱 I’m currently learning Next JS and Prisma.
+- 👯 I’m looking to collaborate on PHP and Wordpress development.
+- 📫 How to reach me: Please visit here - https://portfolio.priyankaddewan.com/
 
 
 <h3 align="left">Connect with me:</h3>
