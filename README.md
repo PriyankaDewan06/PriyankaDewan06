@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Priyanka
 
-- 🔭 I’m currently working on web development using the PHP-Laravel Framework.
-- 🌱 I’m currently learning Next JS and Prisma.
+- 🔭 I’m currently working on web development using the Python-Django Framework.
+- 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on PHP and Wordpress development.
 - 📫 How to reach me: Please visit here - https://portfolio.priyankaddewan.com/
 
